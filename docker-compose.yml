@@ -1,0 +1,13 @@
+version: '3.7'
+
+services:
+  entitylocker:
+    build: .
+    container_name: entitylocker
+    volumes:
+      - ./src:/home/app/src
+    ports:
+      - "8080:8080"
+
+networks:
+  default:

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.renan.locker.test.locker.EntityLockerTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.935 sec
